@@ -27,7 +27,7 @@ Then, to run the notebook, type the following command in your terminal:
 ```bash
 jupyter notebook
 ```
-Navigate to the `Fetch_tutorial.ipynb` file and in the directory, you saved this package and open the file.
+Navigate to the `Fetch_tutorial.ipynb` file and in the directory you saved this package, then open the file.
 From there, you can follow through the tutorial. Ideally, you should have the Fetch simulator behave the same as the gif below
 
 ![](images/reach.gif)
